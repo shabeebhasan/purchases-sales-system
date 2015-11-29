@@ -1,2 +1,3 @@
-# purchases-sales-system
-Developed on ruby on rails
+# Ruby on Rails : "Sales/Purchases System"
+
+This is in under development by Shabeeb Hasan
